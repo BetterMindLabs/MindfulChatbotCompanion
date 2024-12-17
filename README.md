@@ -1,1 +1,1 @@
-# MindfulChatbotCompanion
+# SerenityAI
